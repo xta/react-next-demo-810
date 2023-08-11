@@ -1,0 +1,28 @@
+.main {
+    padding: 8rem;
+}
+
+.main label {
+    margin-right: 20px;
+}
+
+.main section {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px blue solid;
+}
+
+.main button {
+    padding: 0.5rem;
+    border-radius: 10px;
+}
+
+.buttonOn {
+    color: #000;
+    background-color: yellow;
+}
+
+.buttonOff {
+    color: #fff;
+    background-color: green;
+}
