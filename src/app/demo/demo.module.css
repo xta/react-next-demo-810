@@ -1,3 +1,7 @@
 .main {
     padding: 8rem;
 }
+
+.main h3 {
+    margin-top: 2rem;
+}
